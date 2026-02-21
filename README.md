@@ -77,10 +77,10 @@ Currently obsessed with the space where AI agents meet real-world security const
 
 <div align="center">
 
-<img src="https://github-readme-stats-404dealers-projects.vercel.app/api?username=404Dealer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-pi-eight-60.vercel.app/api?username=404Dealer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=404Dealer&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats-404dealers-projects.vercel.app/api/top-langs/?username=404Dealer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats-pi-eight-60.vercel.app/api/top-langs/?username=404Dealer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages" />
 
 </div>
 
