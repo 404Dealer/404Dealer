@@ -8,9 +8,7 @@ I've been taking apart computers since before I could spell and writing code sin
 Currently obsessed with the space where AI agents meet real-world security constraints.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-johnnyr.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://johnnyr.dev)
-[![Email](https://img.shields.io/badge/Email-engineer@johnnyr.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer@johnnyr.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-ramirez-dev)
-[![Telegram](https://img.shields.io/badge/Telegram-@hashbringer69-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hashbringer69)
 
 </div>
 
