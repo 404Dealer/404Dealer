@@ -2,7 +2,7 @@
 
 # Hey, I'm Johnny 👋
 
-**Self-taught developer · AI security tinkerer · Building things that matter**
+**Self-taught developer · Security tinkerer · Building things that matter**
 
 I've been taking apart computers since before I could spell and writing code since I could.
 Currently obsessed with the space where AI agents meet real-world security constraints.
