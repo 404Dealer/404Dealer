@@ -86,7 +86,6 @@ Currently obsessed with the space where AI agents meet real-world security const
 
 ### 🧠 What I Care About
 
-- **Structural security over behavioral promises** — if your safety depends on an AI following instructions, it's not safe
 - **Building useful things** — tools that solve real problems for real people
 - **Understanding from the ground up** — I built my first PC at 10, taught myself to code, and never stopped
 
