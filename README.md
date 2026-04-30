@@ -4,8 +4,8 @@
 
 **Self-taught developer · Security tinkerer · Building things that matter**
 
-I've been taking apart computers since before I could spell and writing code since I could.
-Currently obsessed with the space where AI agents meet real-world security constraints.
+I've been taking messing with computers since before I could spell.
+Currently enthralled in the world of software engineering!
 
 </div>
 
