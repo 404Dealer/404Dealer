@@ -1,100 +1,59 @@
-<div align="center">
+# Hey, I'm Johnny Ramirez 👋
 
-# Hey, I'm Johnny 👋
+**Full-stack software engineer building production web systems, business automation, and safer AI workflows.**
 
-**Self-taught developer · Security tinkerer · Building things that matter**
+I run [FrontierPixel](https://www.frontierpixel.com), where I turn real operational problems into software—from UX and data modeling through integrations, deployment, and ongoing support. I started self-taught and am now pursuing an associate degree, with a bachelor's in computer science next.
 
-I've been taking messing with computers since before I could spell.
-Currently enthralled in the world of software engineering!
+[Portfolio](https://johnnyr.dev) · [FrontierPixel](https://www.frontierpixel.com) · [Email](mailto:engineer@johnnyr.dev)
 
-</div>
+## Selected work
 
----
+### [agent-gate](https://github.com/404Dealer/agent-gate) — human approval for AI-agent actions
 
-### 🔨 What I'm Building
+A deterministic approval layer between AI agents and external actions: agents propose, humans review exact payloads in Telegram, and separate scripts execute approved actions. With its documented process, filesystem, and credential isolation in place, no LLM sits in the execution path.
 
-<table>
-<tr>
-<td width="50%">
+`TypeScript` `Node.js` `Zod` `grammY` `Linux` `systemd`
 
-**[agent-gate](https://github.com/404Dealer/agent-gate)** — Deterministic approval layer for AI agents. Agents draft actions, humans approve via Telegram, scripts execute. No AI in the execution path. Structural security, not behavioral promises.
+### [Shed 210](https://www.shed210.com) — production quote and lead system
 
-`TypeScript` `Telegram Bot` `Zod` `systemd`
+Designed and built a conversion-focused local-service site with an in-browser 3D shed configurator, server-side pricing, structured quote capture, Convex persistence, instant Twilio and Zoho alerts, SEO content infrastructure, and CRM handoff.
 
-</td>
-<td width="50%">
+During the measured January–February campaign, **40 deduplicated qualified opportunities represented $196,042 in conservative quoted pipeline—not booked revenue**. Across 70 successful production notifications, median dealer alert time was **1 second**.
 
-**[free-sign](https://github.com/404Dealer/free-sign)** — Free, open-source, 100% client-side PDF signer and form filler. No backend, no accounts, works offline. Your documents never leave your browser.
+`Next.js` `TypeScript` `Three.js` `Convex` `Zod` `Twilio` `Zoho`
 
-`React` `TypeScript` `Vite` `PWA`
+[Read the case study](https://www.frontierpixel.com/work/shed-210)
 
-</td>
-</tr>
-</table>
+### FrontierPixel CRM — private production system
 
----
+Built and continue to evolve a multi-tenant operations workspace that keeps leads, quote context, SMS, email, calls, scheduled follow-up, consent records, push notifications, audit history, and AI-assisted reply drafts together.
 
-### 🧰 Tech Stack
+`Next.js` `TypeScript` `Convex` `Better Auth` `Zod` `Web Push`
 
-<div align="center">
+### Storybook — merged open-source contribution
 
-**Languages & Frameworks**
+[Fixed the accessibility panel's tab and highlight state across Stories ↔ Docs navigation](https://github.com/storybookjs/storybook/pull/32762), including persistence behavior and regression tests. Merged into Storybook.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`React` `TypeScript`
 
-**Platforms & Tools**
+## Core tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+| Area | Tools |
+| --- | --- |
+| Product & UI | TypeScript, React, Next.js, Tailwind CSS, Three.js |
+| Backend & data | Node.js, Convex, Zod, Better Auth |
+| Integrations | Twilio, Zoho, Stripe |
+| Quality & delivery | Jest, Testing Library, Playwright, GitHub Actions, Vercel, Docker, Linux |
 
-**AI & Automation**
+## What I care about
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agent_Orchestration-FF6F00?style=flat-square&logo=robotframework&logoColor=white)
+- Shipping software that survives contact with actual users.
+- Making complicated workflows feel simple.
+- Treating security, consent, and failure states as product features.
+- Understanding systems from the ground up—I built my first PC at 10 and never really stopped taking things apart.
 
-</div>
+## Right now
 
----
+Building at FrontierPixel, productizing the CRM, improving agent-gate, and pursuing my computer science education.
 
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-pi-eight-60.vercel.app/api?username=404Dealer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=404Dealer&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-pi-eight-60.vercel.app/api/top-langs/?username=404Dealer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages" />
-
-</div>
-
----
-
-### 🧠 What I Care About
-
-- **Building useful things** — tools that solve real problems for real people
-- **Understanding from the ground up** — I built my first PC at 10, taught myself to code, and never stopped
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=404Dealer&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-
-*Currently looking for opportunities — let's talk.*
-
-</div>
+I'm open to full-stack/software engineering opportunities and selected client work. [Let's talk](mailto:engineer@johnnyr.dev).
