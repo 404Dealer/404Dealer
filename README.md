@@ -2,7 +2,7 @@
 
 **Full-stack software engineer building production web systems, business automation, and safer AI workflows.**
 
-I run [FrontierPixel](https://www.frontierpixel.com), where I turn real operational problems into software—from UX and data modeling through integrations, deployment, and ongoing support. I started self-taught and am now pursuing an associate degree, with a bachelor's in computer science next.
+I run [FrontierPixel](https://www.frontierpixel.com), where I turn real operational problems into software—from UX and data modeling through integrations, deployment, and ongoing support. I started as a self-taught developer and am now pursuing an associate degree, with a bachelor's in computer science next.
 
 [Portfolio](https://johnnyr.dev) · [FrontierPixel](https://www.frontierpixel.com) · [Email](mailto:engineer@johnnyr.dev)
 
