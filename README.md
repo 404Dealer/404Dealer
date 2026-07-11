@@ -1,4 +1,4 @@
-# Hey, I'm Johnny Ramirez 👋
+# Hey, I'm Johnny 👋
 
 **Full-stack software engineer building production web systems, business automation, and safer AI workflows.**
 
