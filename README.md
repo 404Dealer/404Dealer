@@ -51,22 +51,20 @@ capture, live Google reviews, SEO content infrastructure, and instant handoff to
 
 `Next.js` `TypeScript` `Three.js` `Convex` `Zod` `Twilio` `Zoho` · [Case study →](https://www.frontierpixel.com/work/shed-210)
 
-### [Crew Empire](https://crewempire.org): co-op tycoon roleplay server for GTA V on FiveM
+### Multiplayer game server: a persistent online city *(private)*
 
-A whole city's worth of game systems, built from scratch: **115 custom Lua resources** and **881 merged PRs in
-its first three weeks**.
+A whole city's worth of game systems, built from scratch: **115 custom Lua modules** and **881 merged PRs in its
+first three weeks**.
 
-- **Economy**: a stock exchange that moves on what happens in the city, prices that rise for whatever the city
-  is short of, and businesses players buy and run
-- **Gameplay**: walk-in heists, a music career with fame and stage names, a controller-complete inventory rebuild,
-  and custom phone apps
-- **Ops**: a server-side anticheat that bans by account and hardware token, an in-game bug reporter that attaches
-  a screenshot and files to Discord, and a go-live script that backs up the database before every release, plus
-  nightly backups. Every change to a third-party resource is documented with its own on/off switch.
-- **Open source**: released [`ce_seats`](https://github.com/ElongatedTuskAssets/ce_seats) (MIT). The public site
-  gives every update its own patch-notes page and posts it to Discord.
+- **Economy**: a stock market driven by in-game events, supply-and-demand pricing, and businesses players buy
+  and run
+- **Gameplay**: missions, player careers, a controller-complete inventory rebuild, and custom in-game phone apps
+- **Ops**: server-side cheat detection, an in-game bug reporter that files straight to the team's tracker, and a
+  release script that backs up the database before every deploy, plus nightly backups. Every change to a
+  third-party module is documented with its own on/off switch.
+- **Release tooling**: a build pipeline that packages modules as standalone, dependency-checked releases
 
-`Lua 5.4` `Qbox` `ox_lib` `MariaDB` `txAdmin` `Python` `JavaScript`
+`Lua 5.4` `MariaDB` `Python` `JavaScript`
 
 ### Network Engineer Sim: a datacenter game where the network is real *(private, in development)*
 
@@ -132,12 +130,12 @@ with persistence behaviour and regression tests. Merged upstream.
 | **Frontend** | React 19 · Next.js 16 · Tailwind CSS v4 · Three.js |
 | **Backend & data** | Node.js · Convex · MariaDB · Zod · Better Auth |
 | **Integrations** | Twilio · Zoho · Microsoft Graph · Gmail · Telegram · Stripe · Discord · Sentry |
-| **Games & simulation** | Unreal Engine 5.8 · FiveM / Qbox · CMake · Blender |
+| **Games & simulation** | Unreal Engine 5.8 · Lua game scripting · CMake · Blender |
 | **Infra & quality** | Vercel · Docker · Linux / systemd · Proxmox · GitHub Actions · Playwright · Jest |
 
 ## 📡 Right now
 
-Productizing the FrontierPixel CRM, building Network Engineer Sim's first levels, and getting Crew Empire ready
+Productizing the FrontierPixel CRM, building Network Engineer Sim's first levels, and getting the game server ready
 for players.
 
 **Open to full-stack, backend, and game/simulation engineering roles**, plus selected client work.
